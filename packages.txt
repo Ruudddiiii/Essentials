@@ -2,4 +2,5 @@ fortune
 gnome-shell-pomodoro
 code
 variety
+terminator
 
