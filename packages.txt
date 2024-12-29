@@ -1,0 +1,2 @@
+fortune
+gnome-shell-pomodoro
